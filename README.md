@@ -34,7 +34,7 @@ The Excel dashboard includes:
 - 📉 **Line Chart** – Monthly Revenue Trend
 - 👥 **Top Customers** – by total spend
 
-Dashboard Preview 
+Dashboard Preview : /Sales Performance Dashboard/Sales dashboard.JPG
 
 ---
 
