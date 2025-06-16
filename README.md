@@ -1,54 +1,40 @@
+# 📊 Sales Performance Dashboard | Self Project
 
-📊 Sales Performance Dashboard | Self Project
+## 🧰 Tools Used:
+- SQL (PostgreSQL)
+- Excel
 
-🧰 Tools Used:
-SQL (PostgreSQL)
-Excel
+## 📁 Project Description:
+This project simulates a business sales environment. I wrote SQL queries to analyze key metrics like product performance, customer spending, and revenue trends, and built a visual dashboard in Excel for reporting and decision-making.
 
-📁 Project Description:
-This project simulates a business scenario where sales data is analyzed and visualized to support decision-making. It focuses on key metrics such as revenue trends, customer behavior, product performance, and KPI reporting.
+## 📌 Objectives:
+- Analyze customer and sales behavior using SQL.
+- Automate reporting of revenue, customer churn, and top products.
+- Build a dashboard to present key KPIs for business insights.
 
-📌 Objectives:
-Extract and analyze sales data using advanced SQL techniques.
+## 🗃️ Tables Used:
+- Customers
+- Products
+- Orders
+- Order Items
 
-Automate reporting of business KPIs like revenue, top products, and customer churn.
+## 📊 Dashboard Features:
+- Monthly sales trend
+- Top-performing products by revenue
+- Top 5 customers by spending
+- Clean visuals with slicers for interactivity
 
-Create a professional Excel dashboard for visual insights and performance tracking.
+## 🔍 SQL Concepts Used:
+- JOINS (INNER, LEFT)
+- GROUP BY, HAVING
+- Window Functions (ROW_NUMBER, RANK)
+- CTEs
 
-🗃️ Dataset:
-Created mock sales data in SQL tables, including:
+## 🖼️ Screenshot:
 
-customers – customer details
-orders – order-level data
-products – product catalog
-order_items – item-level sales
+## 💡 Learning Outcome:
+Gained hands-on experience with relational data analysis, SQL automation, and Excel dashboard building — aligned with SQL Developer, MIS Executive, and Data Analyst roles.
 
-Note: Data is fictional and created for learning and practice purposes.
-
-🔍 Key SQL Concepts Used:
-Joins (INNER, LEFT)
-Aggregate functions (SUM, COUNT, AVG)
-GROUP BY and HAVING
-Window functions (RANK, ROW_NUMBER)
-
-📈 Dashboard Features (Excel):
-Monthly sales trends by region/product
-Top 5 products by revenue
-Customer retention and churn overview
-Interactive slicers and charts for filtering
-
-🖼️ Screenshots:
-
-
-📦 How to Use:
-Clone this repo
-Run the SQL scripts in your PostgreSQL or MySQL setup
-Export the query results to Excel
-Open the Excel file to view the dashboard
-
-📚 Learning Outcome:
-This project helped me gain hands-on experience with real-world data analysis, SQL reporting, and Excel dashboarding — aligning with roles like MIS Executive, Data Analyst, and SQL Developer.
-
-🔗 Connect With Me:
-LinkedIn : linkedin.com/in/anthony-stalin13
-Email : Antonystalin1998@gmail.com
+## 🔗 Connect With Me:
+- LinkedIn : https://linkedin.com/in/anthony-stalin-
+- Email : Antonystalin1998@gmail.com
